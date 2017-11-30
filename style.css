@@ -1,0 +1,56 @@
+*{
+  margin:0;padding:0;list-style:none;
+  text-decoration: none;
+}
+.wrap{
+    width:400px;
+    height:800px;
+    margin:0 auto;
+    background:
+}
+header{
+    width:100%;
+    height:60px;
+    border-bottom:2px solid #eaeaea;
+}
+header span{
+    line-height:60px;
+    padding:0px 15px;
+}
+section {
+    width:100%;
+    height:auto;
+}
+section dl{
+    width:100%;
+    height:150px;
+    border-bottom:1px solid #eee;
+    padding:10px;
+}
+section dl dt{
+    float:left;
+    width:35%;
+    height:130px;
+    background: #e6e6e6;
+    text-align:center;
+    color:#aeaeae;
+}
+section dl dt h1{
+    font-size:30px;
+    font-weight:bold;
+    margin-top:25px;
+}
+section dl dt p{
+    margin-top:10px;
+}
+section dl dd{
+    width:60%;
+    float:right;
+}
+section dl dd h3{
+    
+}
+section dl dd h4{
+    font-size:12px;
+    color:#999999;
+}
